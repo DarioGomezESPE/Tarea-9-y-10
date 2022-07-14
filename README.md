@@ -9,7 +9,9 @@ Comprender los temas nueve y diez del libro Principios de Circuitos Eléctricos-
 • Objetivos específicos
 
 1.- Leer y extraer la información mas importante de los temas nueve y diez.
+
 2.- Sintetizar en un mapa mental la información relevante extraída posteriormente en la lectura.
+
 3.- Realizar ejercicios presentes en el libro de Principios de Circuitos Eléctricos - Floyd
 
 2.MARCO TEÓRICO (RESUMEN)
